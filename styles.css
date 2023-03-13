@@ -1,0 +1,50 @@
+.cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 170px;
+    width: auto;
+}
+
+.pic{
+    float: right;
+    height: 170px;
+    margin-right: 500px;
+}
+
+.content{
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    font-family: Arial,Verdana;
+    font-size: 17px;
+    color: white;
+    background-image: url(./img/sea-edge-79ab30e2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+hr{
+    width: 50%;
+    margin: 1em auto;
+    background-color: black;
+    border-color: black;
+}
+
+.fav {
+    margin-left: 400px
+}
+
+li {
+    margin-left: 400px;
+}
+
+a {
+    color: white;
+}
+a:hover {
+    background-color: white;
+    color: black;
+}
